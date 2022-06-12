@@ -1,4 +1,4 @@
-### MTT Canteen Project: 
+### VNR Canteen Project: 
 
 ## Project Info
 A Canteen website. Allows customers to order online and admin to maintain the records such as profit/loss, ingredients requirements etc. High rich interface makes workflow easy &amp; gets the job done sooner. 
@@ -28,5 +28,4 @@ To the extent possible under law, [Ravindra Purohit](https://github.com/rvutd) h
 [click here to read](https://github.com/rvutd/mit-canteen-site/blob/master/LICENSE)
 
 ## Link of this site
-<https://mit-canteen.netlify.app/index.html>
 
